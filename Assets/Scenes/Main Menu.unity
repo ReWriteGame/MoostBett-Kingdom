@@ -347,7 +347,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3508549001478083143, guid: ed7898d81d247794ab02d1b05de1fa65, type: 3}
       propertyPath: m_Text
-      value: Quit
+      value: Out
       objectReference: {fileID: 0}
     - target: {fileID: 3685347850320085689, guid: ed7898d81d247794ab02d1b05de1fa65, type: 3}
       propertyPath: m_Pivot.x
@@ -1150,7 +1150,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3508549001478083143, guid: ed7898d81d247794ab02d1b05de1fa65, type: 3}
       propertyPath: m_Text
-      value: Play
+      value: Start
       objectReference: {fileID: 0}
     - target: {fileID: 3685347850320085689, guid: ed7898d81d247794ab02d1b05de1fa65, type: 3}
       propertyPath: m_Pivot.x
